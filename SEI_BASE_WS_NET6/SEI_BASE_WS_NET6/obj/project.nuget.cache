@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/ulHP3LEKi/nA37BO8w7rclnVveBeZasltfrzLt42Es0Uk7N41rsGXGvuJr1q2HUghzQiuWchLjddJcred/Kg==",
+  "dgSpecHash": "xcDXZwL5B4puj//8RtISU248LjDX0UPgCiy1vrRvghqIGGboZaxHl7hqFKNu0Fj72F+dQ1irMb4cexVu/RzIsg==",
   "success": true,
-  "projectFilePath": "D:\\GitRepos\\SEI_BASE_WEBSERVICE_ASPNET6\\SEI_BASE_WS_NET6\\SEI_BASE_WS_NET6\\SEI_BASE_WS_NET6.csproj",
+  "projectFilePath": "C:\\Users\\ngomez3\\source\\repos\\SEI_BASE_WEBSERVICE_ASPNET6\\SEI_BASE_WS_NET6\\SEI_BASE_WS_NET6\\SEI_BASE_WS_NET6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ngomez3\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\ngomez3\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
